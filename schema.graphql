@@ -1,0 +1,5 @@
+type ControllerImplementation @entity {
+    id: ID!
+    upgradedAtBlock: BigInt!
+
+}
